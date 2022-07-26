@@ -2,6 +2,6 @@
 
 How to run?
 
-Download https://nodejs.org/en/
-Edit main.js and add your token
+Download https://nodejs.org/en/ <br>
+Edit main.js and add your token <br>
 Type node main.js into command prompt
